@@ -1,0 +1,13 @@
+In mathematics, the factorial of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n:
+
+    n ! = n ⋅ ( n − 1 ) ⋅ ( n − 2 ) ⋅ ( n − 3 ) ⋅ ⋯ ⋅ 3 ⋅ 2 ⋅ 1 . {\displaystyle n!=n\cdot (n-1)\cdot (n-2)\cdot (n-3)\cdot \cdots \cdot 3\cdot 2\cdot 1\,.} {\displaystyle n!=n\cdot (n-1)\cdot (n-2)\cdot (n-3)\cdot \cdots \cdot 3\cdot 2\cdot 1\,.}
+
+For example,
+
+    5 ! = 5 ⋅ 4 ⋅ 3 ⋅ 2 ⋅ 1 = 120 . {\displaystyle 5!=5\cdot 4\cdot 3\cdot 2\cdot 1=120\,.} {\displaystyle 5!=5\cdot 4\cdot 3\cdot 2\cdot 1=120\,.}
+
+The value of 0! is 1, according to the convention for an empty product.[1]
+
+The factorial operation is encountered in many areas of mathematics, notably in combinatorics, algebra, and mathematical analysis. Its most basic use counts the possible distinct sequences – the permutations – of n distinct objects: there are n!.
+
+The factorial function can also be extended to non-integer arguments while retaining its most important properties by defining x! = Γ(x + 1), where Γ is the gamma function; this is undefined when x is a negative integer. 
