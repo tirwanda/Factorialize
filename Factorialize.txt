@@ -11,3 +11,8 @@ Algorithm Challenge
     For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
     
     
+
+function factorialize(num) {
+  return num;
+}
+factorialize(5);
