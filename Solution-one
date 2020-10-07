@@ -1,0 +1,9 @@
+function factorialize(num) {
+    var result = 1;
+     if(num === 1 || num === 0) {
+         return result;
+     } else {
+         return num * factorialize(num-1);
+     }
+        
+}   
